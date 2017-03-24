@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Calendar</string>
+    <string name="you_where_born">You where born:</string>
+    <string name="okay">Okay</string>
+    <string name="when_is_your_birthday">When is your birthday? (tip: use the year input below for a shortcut)</string>
+    <string name="year">Year</string>
+</resources>
